@@ -1,0 +1,13 @@
+pwd
+ls
+cd
+mkdir
+touch
+cat
+git init
+git status
+git add .
+git commit -m "Första commit"
+git branch -M main
+git remote add origin <din github-länk>
+git push -u origin main
