@@ -4,13 +4,13 @@ Man använder commit, push och pull för att samordna ändringar.
 
 ## Detta kan man göra:
 
-arbeta i samma projekt
+- arbeta i samma projekt
 
-spara ändringar med commit - uppdaterar gemensamt arbete 
+- spara ändringar med commit - uppdaterar gemensamt arbete 
 
-hämta ändringar med pull
+- hämta ändringar med pull
 
-skicka ändringar med push
+- skicka ändringar med push
 
-arbeta separat med branches – då jobbar man med egna versioner och påverkar inte den gemensamma versionen. När man är klar går man igenom 
+- arbeta separat med branches – då jobbar man med egna versioner och påverkar inte den gemensamma versionen. När man är klar går man igenom 
 innehållet och lägger ihop det genom en merge till en enda version.
