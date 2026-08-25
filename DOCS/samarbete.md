@@ -1,6 +1,6 @@
 # Repository-samarbete 
 Ett repository gör att flera personer kan arbeta i samma projekt utan att skriva över varandras arbete.
-Man använder commit, push och pull för att samordna ändringar.
+Man använder commit, push och pull för att synka ändringar.
 
 ## Detta kan man göra:
 
