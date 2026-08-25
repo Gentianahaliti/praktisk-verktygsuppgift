@@ -12,9 +12,7 @@ Med git add valde jag vilka ändringar som skulle sparas.
 
 Efter det använde jag git branch -M main för att kalla huvudbranchen main.
 
-Med git remote add origin kopplade jag projektet till mitt GitHub-repository. 
-
-Till sist använde jag git push -u origin main för att skicka projektet till GitHub
+Med git remote add origin kopplade jag projektet till mitt github. 
 
 Råkade även radera bort all text jag skrivit så jag använde git restore mina-bash-kommandon.txt för att få det tillbaka.
 
