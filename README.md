@@ -12,7 +12,7 @@ Versionshistorik visar vilka ändringar som har gjorts tidigare och visar även 
 
 - git status visade ändringarna.
 
-git add valde ändringarna som skulle sparas.
+- git add valde ändringarna som skulle sparas.
 
 - git commit sparade ändringarna.
 
