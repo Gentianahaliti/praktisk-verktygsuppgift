@@ -7,7 +7,7 @@ cat
 git init
 git status
 git add .
-git commit -m "Första commit"
+git commit -m 
 git branch -M main
-git remote add origin <din github-länk>
+git remote add origin 
 git push -u origin main
