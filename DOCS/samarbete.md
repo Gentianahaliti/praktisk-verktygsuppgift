@@ -2,7 +2,7 @@
 Ett repository gör att flera personer kan arbeta i samma projekt utan att skriva över varandras arbete.
 Man använder commit, push och pull för att samordna ändringar.
 
-Detta kan man göra:
+## Detta kan man göra:
 
 arbeta i samma projekt
 
