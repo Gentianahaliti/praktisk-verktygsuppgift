@@ -4,7 +4,7 @@ Med cd kunde jag gå till en annan mapp.
 
 Jag använde mkdir för att skapa en ny mapp och touch för att skapa en fil.
 
-Med cat kunde jag se innehållet i en fil.
+Sedan skapade jag min README‑fil direkt från terminalen med echo
 
 Jag använde git init för att starta Git.
 
