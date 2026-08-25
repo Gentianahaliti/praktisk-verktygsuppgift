@@ -1,19 +1,26 @@
-Jag använde pwd för att se vilken mapp jag var i och ls för att se vad som fanns där. 
+Jag använde pwd för att se vilken mapp jag var i och ls för att se vad som fanns där.
 
-Med cd kunde jag gå till en annan mapp. 
+Med cd kunde jag gå till en annan mapp.
 
-Jag använde mkdir för att skapa en ny mapp och touch för att skapa en fil. 
+Jag använde mkdir för att skapa en ny mapp och touch för att skapa en fil.
 
 Med cat kunde jag se innehållet i en fil.
 
-Sedan använde jag git init för att starta Git i projektet. 
+Jag använde git init för att starta Git.
+
+Git status visade vilka ändringar som fanns.
 
 Med git add valde jag vilka ändringar som skulle sparas.
 
+Med git commit sparade jag ändringarna.
+
 Efter det använde jag git branch -M main för att kalla huvudbranchen main.
 
-Med git remote add origin kopplade jag projektet till mitt github. 
-
-Råkade även radera bort all text jag skrivit så jag använde git restore mina-bash-kommandon.txt för att få det tillbaka.
+Med git remote add origin kopplade jag arbetet till mitt Github.
 
 Till sist använde jag git push -u origin main för att skicka arbetet till GitHub.
+
+Och varje gång jag gjorde en ny uppdatering så använde jag t.ex. git add "mina-bash-kommandon.txt", git commit -m "uppdaterade bash-kommandon"
+sist git push som skickade mina sparade ändringar från datorn till Github.
+
+Jag råkade radera all text jag hade skrivit, så jag använde git restore mina-bash-kommandon.txt för att få tillbaka den.
