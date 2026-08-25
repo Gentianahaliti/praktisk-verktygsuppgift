@@ -8,12 +8,12 @@ Versionshistorik visar vilka ändringar som har gjorts tidigare och visar även 
 
 ## Vad jag gjorde
 
-git init startade git.
+- git init startade git.
 
-git status visade ändringarna.
+- git status visade ändringarna.
 
 git add valde ändringarna som skulle sparas.
 
-git commit sparade ändringarna.
+- git commit sparade ändringarna.
 
-git push skickade arbetet till github.
+- git push skickade arbetet till github.
