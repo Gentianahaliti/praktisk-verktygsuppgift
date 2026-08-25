@@ -9,7 +9,11 @@ Versionshistorik visar vilka ändringar som har gjorts tidigare och visar även 
 ## Vad jag gjorde
 
 git init startade Git.
+
 git status` visade ändringarna.
+
 git add` valde ändringarna som skulle sparas.
+
 git commit` sparade ändringarna.
+
 git push` skickade arbetet till GitHub.
