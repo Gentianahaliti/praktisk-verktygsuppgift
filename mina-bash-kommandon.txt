@@ -14,8 +14,6 @@ Med git add valde jag vilka ändringar som skulle sparas.
 
 Med git commit sparade jag ändringarna.
 
-Efter det använde jag git branch -M main för att kalla huvudbranchen main.
-
 Med git remote add origin kopplade jag arbetet till mitt Github.
 
 Till sist använde jag git push -u origin main för att skicka arbetet till GitHub.
