@@ -17,3 +17,5 @@ Versionshistorik visar vilka ändringar som har gjorts tidigare och visar även 
 - git commit sparade ändringarna.
 
 - git push skickade arbetet till github.
+
+- git pull hämtar nya ändringar från Github som inte redan finns på datorn. 
