@@ -7,6 +7,7 @@ Detta kan man göra:
 arbeta i samma projekt
 
 spara ändringar med commit - uppdaterar gemensamt arbete 
+
 hämta ändringar med pull
 
 skicka ändringar med push
