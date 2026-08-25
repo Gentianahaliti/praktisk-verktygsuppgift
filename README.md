@@ -1,4 +1,4 @@
-# Praktisk verktygsuppgift - Introduktion utvecklare -Git och Repository
+# Praktisk verktygsuppgift Introduktion utvecklare 
 
 Ett repository är projektet där filerna och ändringarna sparas.
 
@@ -10,10 +10,10 @@ Versionshistorik visar vilka ändringar som har gjorts tidigare och visar även 
 
 git init startade git.
 
-git status` visade ändringarna.
+git status visade ändringarna.
 
-git add` valde ändringarna som skulle sparas.
+git add valde ändringarna som skulle sparas.
 
-git commit` sparade ändringarna.
+git commit sparade ändringarna.
 
-git push` skickade arbetet till github.
+git push skickade arbetet till github.
